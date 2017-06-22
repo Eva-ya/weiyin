@@ -24,9 +24,9 @@
 }
 .content_a{
 	width: 100%;
-	height: 80%;
+	height: 599px;
 	background: url(../img/introduction/content_a_bac.jpg) no-repeat;
-	background-size:auto 100% ;
+	background-size:100% ;
 	background-attachment: fixed;
 	
 }
@@ -37,16 +37,16 @@
 }
 .content_c{
 	width: 100%;
-	height: 80%;
+	height: 600px;
 	background: url(../img/introduction/content_c_bac.jpg) no-repeat;
-	background-size:auto 100% ;
+	background-size:100% ;
 	background-attachment: fixed;
 }
 .content_e{
 	width: 100%;
-	height: 80%;
+	height: 601px;
 	background: url(../img/introduction/content_e_bac.jpg) no-repeat;
-	background-size:auto 100% ;
+	background-size:100% ;
 	background-attachment: fixed;
 }
 .content_g{
