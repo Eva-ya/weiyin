@@ -1,0 +1,218 @@
+/******************************max-width=500px min-width=320px*/
+html{
+	font-size: 7px;
+}
+.main h1{
+	font-size: 2.2rem;
+}
+
+nav ul.nav_{
+	left: 72%;
+}
+nav .nav_2 img{
+	display: none;
+}
+nav .nav_2{
+	/*height: 300%;*/
+	width: 33%;
+	left: 39%;
+	position: relative;
+	background: rgba(255,255,255,0.5);
+	
+}
+nav .nav_2 .word hr {
+    width: 82%;
+    margin-top: 5px;
+}
+nav .nav_2 .word ul li{
+	float: none;
+	padding: 5px 0px;
+	color: black;
+}
+nav .nav_2 .word{
+	left: 10%;
+	width: 100%;
+	top: 5%;
+}
+.content_a p.free{
+	width: auto;
+}
+.content_a .a_contact p:nth-child(2){
+	margin-top: 0;
+}
+.content_a .a_contact{
+	padding: 4px;
+	width: 85px;
+	
+}
+/*.content_b section img{
+	display: none;
+}*/
+.content_a .a_contact div{
+	padding-top: 2px;
+}
+.content_b p.p1{
+	display: none;
+}
+.content_b section .solution{
+	width:64% ;
+	left: 19%;
+	bottom: 5%;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+.content_b .main h1{
+	margin-bottom: 5px;
+}
+.content_c .main{
+	padding-top: 2%;
+}
+.content_c ul.c_ul_a{
+	left: 4%;
+}
+.content_c ul.c_ul_b{
+	right: 4%;
+}
+
+.content_c .icon-form_e:before{
+	content: "\e70c";
+	font-size: 3rem;
+}
+.content_c .icon-form_f:before{
+	content: "\e723";
+	font-size: 3rem;
+}
+.content_c .icon-form_g:before{
+	content: "\e6a2";
+	font-size: 3rem;
+}
+
+.content_c .icon-form_l:before{
+	content: "\e6e5";
+	font-size: 3rem;
+}
+.content_c .icon-form_m:before{
+	content: "\e6db";
+	font-size: 3rem;
+}
+.content_d .main h1{
+	margin-bottom: 8px;
+}
+.content_d p.p1{
+	display: none;
+}
+.content_d .d_box h3{
+	font-weight: normal;
+}
+.content_d .d_box{
+	margin-left: 3%;
+    margin-right: 3%;
+	width: 25%;
+}
+.content_e .main{
+	width: 94%;
+	left: 3%;
+}
+.content_e .main h1{
+	font-size: 2.6rem;
+}
+.content_e .main h1 span{
+	display: none;
+}
+.content_e .main .e_ul_a{
+	top: 30%;
+	left: 10%;
+}
+.content_e .main .e_ul_b{
+	display: none;
+}
+.content_e .main ul li{
+	height: auto;
+	padding-top: 2.5%;
+	font-size: 1.2rem;
+}
+.content_f .main ul li h1{
+	display: none;
+}
+.content_f .main ul li p{
+	font-size: 1.4rem;
+}
+.content_f .main ul li p span{
+	color: #c31b26;
+}
+.content_f .main{
+	width: 94%;
+	left: 3%;
+	top: 10%;
+}
+.content_f .main ul li{
+	margin: 0 1%;
+	width: 23%;
+}
+.content_g .g_people{
+	padding: 0 1%;
+	height: 78%;
+}
+.content_g .g_people h4{
+	font-weight: normal;
+	font-size: 1.4rem;
+	padding-top: 0;
+}
+.content_g .g_people img {
+    margin-bottom: 2%;
+}
+
+.content_i .main ul li {
+    font-size: 1rem;
+    
+}
+.content_i .main ul li:nth-child(3){
+	display: none;
+}
+.content_i .main h1{
+	margin-bottom: 0%;
+}
+.content_j .main{
+	width: 92%;
+	left: 4%;
+}
+.content_j h5 {
+    font-size: 1.2rem;
+    margin-top: 0%;
+}
+.content_j .j_a {
+    width: 44%;
+    float: left;
+    margin: 1% 3%;
+    text-align: left;
+}
+.content_j h1 {
+    margin-bottom: 0%;
+}
+.content_j .main {
+    padding-top: 1%;
+}
+.content_l .main .box{
+	padding:5px 8px;
+	left: 36%;
+}
+.content_m .main ul{
+	display: none;
+}
+.content_m p, .content_m h1{
+	width: 90%;
+}
+.content_m p{
+	padding: 2px;
+}
+
+footer .main{
+	font-size: 1.4rem;
+	padding-top: 0;
+}
+footer .main p.link{
+	display: none;
+}
+footer .main ul{
+	display: none;
+}

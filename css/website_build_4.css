@@ -1,0 +1,37 @@
+/******************max-width=500px*************/
+
+.content_a p.free {
+    padding: 2px 14px;
+}
+.content_b .b_left li:nth-last-child(4){
+    display: none;
+   
+}
+.content_b .b_left li{
+	 font-size:1.8rem ;
+}
+.main h1 {
+    font-size: 2.4rem;
+}
+.content_c .main .pic {
+    width: 75%;
+}
+.content_c .main .pic img.pict{
+	display: none;
+}
+.content_c td.c_td{
+	display: none;
+}
+.content_c .main .pic p {
+    margin-bottom: 9%;
+}
+footer .main{
+	font-size: 1.4rem;
+	padding-top: 0;
+}
+footer .main p.link{
+	display: none;
+}
+footer .main ul{
+	display: none;
+}

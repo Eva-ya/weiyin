@@ -1,0 +1,33 @@
+/******************max-width=500px*************/
+html{
+	font-size: 8px;
+}
+header ul.ul_a {
+    width: 65%;
+}
+.content_a .a_box {
+    width: 90%;
+    margin: 5%;
+}
+.a_foot {
+    margin: 5% 10%;
+}
+.a_foot ul {
+    width: 42%;
+    padding: 1% 2%;
+    
+}
+.a_foot p {
+    padding: 1% 2%;
+    
+}
+footer .main{
+	font-size: 1.4rem;
+	padding-top: 0;
+}
+footer .main p.link{
+	display: none;
+}
+footer .main ul{
+	display: none;
+}

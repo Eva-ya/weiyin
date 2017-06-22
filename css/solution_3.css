@@ -1,0 +1,99 @@
+/******************************max-width=800px*/
+html{
+	font-size: 7px;
+}
+.main h1 {
+    font-size: 3rem;
+}
+nav ul.nav_{
+	display: none;
+	position: absolute;
+	left: 80%;
+	top: 100%;
+	width: 75px;
+	background: rgba(0,0,0,0.5);	
+}
+
+nav .nav_ li{
+	float: none;
+}
+
+nav .nav_2 {
+    height: 200%; 
+    width: 75%;
+    left: 0%;
+}
+nav .nav_2 .word{
+	width: 52%;
+	left: 50%;
+}
+nav .nav_2 .word ul li{
+	width: auto;
+	padding-right: 20px;
+	font-size: 1.8rem;
+}
+nav .nav_2 img{
+	height: 60%;
+	left: 5%;
+}
+nav .nav_2 .word hr {
+    width: 88%;
+
+}
+nav img.phone{
+	display: block;
+	height: 100%;
+	position: absolute;
+	top: 10%;
+	left: 80%;
+}
+
+header .main p:nth-child(2){
+	display: none;
+}
+.content_a section.sec_right {
+    top: 9%;
+    
+}
+.content_c .main .box{
+	width: auto;
+}
+.content_c .main .box li:nth-child(2),.content_c .main .box li:nth-child(3),.content_c .main .box li:nth-child(4),.content_c .main .box li:nth-child(5){
+	display: none;
+}
+.content_c .main .box li {
+    height: 44px;
+    padding-top: 18px;
+    width: 84px;
+}
+.content_d .main p {
+    margin-bottom: 4px;
+    width: 100%;
+}
+.content_d .main{
+	padding-top: 0%;
+}
+.content_d .main h3 {
+    margin-bottom: 10px;
+}
+.content_g.foot{
+	width: 43%;
+
+}
+.content_g .main ul{
+	margin-right: 13%;
+}
+.content_f .main{
+	padding-top: 2%;
+}
+.content_f .main h1{
+	font-size: 2.6rem;
+}
+.content_f .main input{
+    height: 27px;
+    width: 38%;
+}
+.content_f .main button {
+    height: 27px;
+    width: 88px;
+}

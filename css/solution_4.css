@@ -1,0 +1,111 @@
+/******************************max-width=500px min-width=320px*/
+.main h1{
+	font-size: 2.6rem;
+}
+
+nav ul.nav_{
+	left: 72%;
+}
+nav .nav_2 img{
+	display: none;
+}
+nav .nav_2{
+	/*height: 300%;*/
+	width: 33%;
+	left: 39%;
+	position: relative;
+	background: rgba(255,255,255,0.5);
+	
+}
+nav .nav_2 .word hr {
+    width: 82%;
+    margin-top: 5px;
+}
+nav .nav_2 .word ul li{
+	float: none;
+	padding: 5px 0px;
+	color: black;
+}
+nav .nav_2 .word{
+	left: 10%;
+	width: 100%;
+	top: 5%;
+}
+header .main p {
+    padding: 1% 15%;
+}
+.content_a section.sec_left{
+	width: 90%;
+}
+.content_a section.sec_right {
+    display: none;
+}
+.content_b .box {
+    width: 48%;
+    padding: 1% 2%;
+}
+.content_b .box:nth-last-child(4),.content_b .box:nth-last-child(5){
+	display: none;
+}
+.content_b .box p {
+    height: 80px;
+}
+.content_c .main h1 {
+    margin-bottom: 8%;
+}
+.content_c .main {
+    position: relative;
+    padding-bottom: 1%;
+}
+.content_b .box:nth-last-child(1),.content_b .box:nth-last-child(2),.content_b .box:nth-last-child(3){
+	display: none;
+}
+.content_d .main h5{
+	position: absolute;
+    right: 2%;
+    bottom: 14%;
+}
+.content_d .main p{
+	display: none;
+}
+.content_e .box1 section:nth-last-child(1),.content_e .box1 section:nth-last-child(2){
+	display: none;
+}
+.content_e .box2 img{
+	width: 45%;
+}
+.content_e .box2 img:nth-last-child(1),.content_e .box2 img:nth-last-child(2){
+	display: none;
+}
+.content_f .main .box {
+    width: 80%;
+}
+.content_f .main input {
+    width: 42%;
+}
+.content_f .main h1:nth-child(2){
+	display: none;
+}
+.content_f .main button {
+    width: 68px;
+}
+.content_g .main ul{
+	display: none;
+}
+.content_g p, .content_m h1{
+	width: 90%;
+}
+.content_g p{
+	padding: 2px;
+}
+
+footer .main{
+	font-size: 1.4rem;
+	padding-top: 0;
+}
+footer .main p.link{
+	display: none;
+}
+footer .main ul{
+	display: none;
+}

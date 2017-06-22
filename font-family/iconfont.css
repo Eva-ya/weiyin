@@ -1,0 +1,43 @@
+
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1497505368417'); /* IE9*/
+  src: url('iconfont.eot?t=1497505368417#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('iconfont.woff?t=1497505368417') format('woff'), /* chrome, firefox */
+  url('iconfont.ttf?t=1497505368417') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('iconfont.svg?t=1497505368417#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family:"iconfont" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-form:before { content: "\e6a2"; }
+
+.icon-viewlist:before { content: "\e6b5"; }
+
+.icon-gifts:before { content: "\e6db"; }
+
+.icon-trade-assurance:before { content: "\e6e5"; }
+
+.icon-imagetext:before { content: "\e6fb"; }
+
+.icon-jifen:before { content: "\e70c"; }
+
+.icon-manageorder:before { content: "\e723"; }
+
+.icon-inquirytemplate:before { content: "\e749"; }
+
+.icon-templatedefault:before { content: "\e74a"; }
+
+.icon-trade:before { content: "\e758"; }
+
+.icon-Calculator:before { content: "\e812"; }
+
+.icon-trust:before { content: "\e82a"; }
+
+.icon-column:before { content: "\e839"; }
+

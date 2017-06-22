@@ -1,0 +1,16 @@
+/******************max-width=1120px*************/
+
+
+nav ul.nav_{
+	left: 35%;
+	
+}
+nav .nav_ li {
+    margin-right: 1%;
+}
+.content_c h1{
+	font-size: 3rem;
+}
+footer ul li:nth-last-child(1),footer ul li:nth-last-child(2){
+	display: none;
+}

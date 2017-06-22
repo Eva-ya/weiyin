@@ -1,0 +1,266 @@
+header{
+	width: 100%;
+	position: relative;
+	color: #dddddd;
+}
+header img.bac{
+	width: 100%;
+	display: block;
+	
+}
+.main{
+	width: 86%;
+	height: 100%;
+	position: absolute;
+	left: 7%;
+	top: 0;
+	text-align: center;
+	padding-top: 4%;
+	box-sizing: border-box;
+	overflow: hidden;
+	/*background: red;*/
+	font-size: 1.8rem;
+}
+.main h1{
+	font-size: 3rem;
+	font-weight: normal;
+}
+header h1{
+	color: white;
+	font-weight: normal;
+	font-size: 3.6rem;
+	margin-bottom: 1%;
+}
+header .main{
+	width: 100%;
+	left: 0;
+	padding-top: 15%;
+	background: rgba(0,0,0,0.4);
+	text-align: center;
+}
+header .main p{
+	padding: 1% 23%;
+	font-size: 1.6rem;
+}
+.content_a{
+	width: 100%;
+	position:relative ;
+	background: #dbdbdb;
+}
+.content_a .main{
+	position: relative;
+	text-align: left;
+	
+}
+.content_a h3{
+	color: #d70000;
+	font-weight: normal;
+	font-size: 1.8rem;
+	padding-left:28px;
+	margin-bottom: 6px;
+	background: url(../img/service/content_a_pic.png) no-repeat left;
+}
+.content_a p{
+	font-size: 1.6rem;
+	padding-left:28px;
+}
+.content_a section{
+	width: 50%;
+	box-sizing: border-box;
+	padding-left: 10%;
+	margin-bottom: 2.5%;
+	float: left;
+	height: 100px;
+}
+
+.content_b{
+	width: 100%;
+	position: relative;
+}
+.content_b .main{
+	position: relative;
+	padding-bottom: 4%;
+	
+}
+.content_b .main h1{
+	margin-bottom: 3%;
+	color: #c31b26;
+}
+.content_b .main section{
+	width: 47%;
+	float: left;
+	text-align: left;
+	margin: 3% 1.5%;
+	position: relative;
+}
+.content_b .main h3{
+	font-size: 1.8rem;
+	font-weight: normal;
+	margin-bottom: 10px;
+}
+.content_b .main p{
+	font-size: 1.4rem;
+	color: #525252;
+	line-height: 1.8rem;
+}
+.content_b .main section img{
+	/*height: 100%;*/
+	/*float: left;*/
+	
+}
+.content_b .main section .word{
+	float: left;
+	/*width: 50%;*/
+	margin-left: 10px;
+	display: inline-block;
+	position: absolute;
+}
+.content_c_main_img_pict{
+	filter: brightness(200%);
+	-webkit-filter: brightness(200%);
+}
+.content_c{
+	background: #dbdbdb;
+}
+.content_c .main{
+	position: relative;
+	padding-bottom: 3%;
+}
+.content_c .main img.pict{
+	width: 100%;
+}
+.content_c .main td{
+	position: relative;
+}
+.content_c .main .pic{
+	position: absolute;
+	top: 40%;
+	left: 50%;
+	transform: translateX(-50%);
+	color: white;
+}
+.content_c .main .pic p{
+	margin-bottom: 10%;
+	font-size: 1.8rem;
+}
+.content_c .main .pic img{
+	width: 10%;
+}
+.content_d{
+	width: 100%;
+	position: relative;
+	
+}
+.content_d .main{
+	position: relative;
+}
+.content_d .box1{
+	width: 100%;
+	font-size: 1.4rem;
+	text-align: left;
+	display: flex;
+	margin-bottom: 30px;
+}
+.content_d .box1 section p{
+	margin-top: 5px;
+}
+.content_d .box1 section p:nth-child(3){
+	color: #787878;
+}
+.content_d .box1 section{
+	display: inline-block;
+	padding: 12px;
+	box-sizing: border-box;
+	flex: 1;
+	margin-bottom: 4%;
+}
+.content_d .box1 section img{
+	width: 100%;
+}
+.content_e{
+	width: 100%;
+	position: relative;
+	background: black;
+}
+.content_e img.bac{
+	width: 100%;
+	display: block;
+}
+
+.content_e .main{
+	color: white;
+}
+.content_e .main .box{
+	position: relative;
+	left: 50%;
+	transform: translateX(-50%);
+	width: 50%;
+}
+.content_e .main input{
+	width: 55%;
+	height: 42px;
+	border-radius: 5px;
+	padding-left: 15px;
+	font-size: 1.6rem;
+	color: black
+	
+}
+.content_e .main button{
+	width: 142px;
+	height: 42px;
+	padding:2px 10px;
+	background: #c31b26;
+	font-size: 1.8rem;
+	border-radius: 5px;
+	margin-left: 10px;
+	font-size: 1.6rem;
+	color: white;
+}
+.content_f{
+	width: 100%;
+	position: relative;
+	
+}
+.content_f .main{
+	text-align: left;
+	padding-top: 3%;
+	position: relative;
+	
+}
+
+.content_f p{
+	font-size: 1.6rem;
+	color: #6c6c6c;
+	padding: 15px ;
+	padding-left: 6%;
+	width: 50%;
+}
+.content_f p,.content_f h1{
+	width: 50%;
+}
+.content_f p span{
+	color: #db4e54;
+}
+.content_f .foot{
+	width: 44%;
+	position: absolute;
+	right: 0;
+	top: 12%;
+}
+.content_f .main ul{
+	float: left;
+	color: #6c6c6c;
+	font-size: 1.6rem;
+	margin-right: 14%;
+	/*width: 17%;*/
+}
+.content_f .main ul a{
+	color:#6c6c6c ;
+}
+.content_f .main li{
+	margin-top: 10%;
+}
+.content_f .main ul li:first-child{
+	color: black;
+	margin-bottom: 25%;
+}

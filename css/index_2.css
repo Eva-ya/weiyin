@@ -1,0 +1,142 @@
+
+/******************************max-width=1120px*/
+
+
+html{
+	font-size: 9px;
+}
+nav ul.nav_{
+	left: 35%;
+	
+}
+nav .nav_ li {
+    margin-right: 1%;
+}
+.content_c ul.c_ul_a{
+	margin-top: 1.5%;
+	left:10%;
+}
+.content_c ul.c_ul_a li p:last-child{
+	display: none;
+}
+.content_c ul.c_ul_b{
+	margin-top: 1.5%;
+	right: 10%;
+}
+.content_c ul.c_ul_b li p:last-child{
+	display: none;
+}
+.content_c ul.font_a{
+	left: 20%;
+}
+.content_c ul.font_b{
+	right: 20%;
+}
+.content_b section .solution{
+	padding-top: 4px;
+	padding-bottom: 4px;
+	bottom: 7%;
+
+}
+.content_b section{
+
+	padding:1% 1%;
+}
+.content_c .icon-form_a:before{
+	content: "\e6fb";
+	font-size: 4.5rem;
+}
+.content_c .icon-form_b:before{
+	content: "\e82a";
+	font-size: 4.5rem;
+}
+.content_c .icon-form_c:before{
+	content: "\e758";
+	font-size: 4.5rem;
+}
+.content_c .icon-form_d:before{
+	content: "\e812";
+	font-size: 4.5rem;
+}
+.content_c .icon-form_e:before{
+	content: "\e70c";
+	font-size: 4.5rem;
+}
+.content_c .icon-form_f:before{
+	content: "\e723";
+	font-size: 4.5rem;
+}
+.content_c .icon-form_g:before{
+	content: "\e6a2";
+	font-size: 4.5rem;
+}
+.content_c .icon-form_h:before{
+	content: "\e74a";
+	font-size: 4.5rem;
+}
+.content_c .icon-form_i:before{
+	content: "\e749";
+	font-size: 4.5rem;
+}
+.content_c .icon-form_j:before{
+	content: "\e723";
+	font-size: 4.5rem;
+}
+.content_c .icon-form_k:before{
+	content: "\e839";
+	font-size: 4.5rem;
+}
+.content_c .icon-form_l:before{
+	content: "\e6e5";
+	font-size: 4.5rem;
+}
+.content_c .icon-form_m:before{
+	content: "\e6db";
+	font-size: 4.5rem;
+}
+.content_d .d_box{
+	position: relative;
+}
+
+.content_d .d_box p{
+	/*margin-top: 0;*/
+	font-size: 1.6rem;
+	position: absolute;
+	top: 1%;
+}
+
+.content_j h1{
+	margin-bottom: 1%;
+}
+.content_j h5{
+	font-size: 2rem;
+	display: inline;
+}
+.content_j .j_a p{
+	font-size: 1.8rem;
+}
+.content_g .g_people p{
+	display: none;
+}
+.content_g .g_people{
+	height: 54%;
+	padding: 3% 2%;
+	
+}
+.content_g .g_people img{
+	width: 65%;
+	margin-bottom: 10%;
+}
+.content_f .main ul li h1 {
+   margin-bottom: 8px;
+}
+.content_l h1:nth-child(2){
+	
+	display: none;
+}
+.content_m .foot ul:last-child{
+	display: none;
+}
+footer ul li:nth-last-child(1),footer ul li:nth-last-child(2),footer ul li:nth-last-child(3){
+	display: none;
+}

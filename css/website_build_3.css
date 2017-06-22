@@ -1,0 +1,91 @@
+/******************max-width=800px*************/
+
+html{
+	font-size: 7px;
+}
+.main h1 {
+    font-size: 3rem;
+}
+nav ul.nav_{
+	display: none;
+	position: absolute;
+	left: 80%;
+	top: 100%;
+	width: 75px;
+	background: rgba(0,0,0,0.5);	
+}
+
+nav .nav_ li{
+	float: none;
+}
+
+nav .nav_2 {
+    height: 200%; 
+    width: 75%;
+    left: 0%;
+}
+nav .nav_2 .word{
+	width: 52%;
+	left: 50%;
+}
+nav .nav_2 .word ul li{
+	width: auto;
+	padding-right: 20px;
+	font-size: 1.8rem;
+}
+nav .nav_2 img{
+	height: 60%;
+	left: 5%;
+}
+nav .nav_2 .word hr {
+    width: 88%;
+
+}
+nav img.phone{
+	display: block;
+	height: 100%;
+	position: absolute;
+	top: 10%;
+	left: 80%;
+}
+.content_a p.free{
+	width: auto;
+	padding: 8px 15px;
+}
+.content_b .b_right{
+	left:27%;
+	width: 73%;
+}
+.content_b .b_right h3{
+	font-size: 2.6rem;
+}
+.content_b .b_left{
+	width: 29%;
+}
+.content_b .b_right img {
+    top: 45%;
+}
+.content_b .b_right .word {
+     width: auto; 
+}
+.content_b .b_left li{
+	 font-size:2rem ;
+}
+.content_b .b_left li:nth-last-child(1),.content_b .b_left li:nth-last-child(2),.content_b .b_left li:nth-last-child(3) {
+    display: none;
+   
+}
+
+.content_c .main .pic {
+    top: 20%;
+  
+}
+footer ul.n_ul_b li:nth-last-child(3),footer ul.n_ul_b li:nth-last-child(4){
+	display: none;
+}
+footer ul.n_ul_a li:nth-last-child(3){
+	display: none;
+}
+footer .main p.link {
+    top: 24%;
+}

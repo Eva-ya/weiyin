@@ -1,0 +1,49 @@
+
+/******************************max-width=1120px*/
+
+
+html{
+	font-size: 9px;
+}
+nav ul.nav_{
+	left: 35%;
+	
+}
+nav .nav_ li {
+    margin-right: 1%;
+}
+.main h1{
+	font-size: 2.6rem;
+}
+footer ul li:nth-last-child(1),footer ul li:nth-last-child(2),footer ul li:nth-last-child(3){
+	display: none;
+}
+.content_c .main .box li {
+    padding: 9px 2px;
+    width: 75px;
+    height: 68px;
+    
+}
+.content_c .main .box{
+	width: 745px;
+}
+}
+.content_d .main h3{
+	font-size:2.6rem ;
+}
+.content_d .main p{
+	width: 63%;
+	margin-bottom: 25px;
+}
+.content_f .main .box{
+	width: 58%;
+}
+.content_f .main input{
+	height: 33px;
+}
+.content_f .main button{
+	height: 33px;
+}
+.content_g .foot ul:last-child{
+	display: none;
+}

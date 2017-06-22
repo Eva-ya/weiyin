@@ -1,0 +1,123 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: "微软雅黑";
+}
+html{
+	font-size: 10px;
+}
+nav{
+	width: 100%;
+	height: 5.5rem;
+	background: rgba(0,0,0,0.4);
+	position: fixed;
+	z-index: 1000;
+	font-size: 1.8rem;	
+	cursor: pointer;
+}
+nav img.phone{
+	display: none;
+}
+.nav_change{
+	background: #474747;
+}
+/*nav ul.nav_ a:link,nav ul.nav_ a:visited,nav ul.nav_ a:hover,nav ul.nav_ a:active,{
+	color: white;
+}*/
+nav ul.nav_ a{
+	color: white;
+}
+
+nav ul.nav_{
+	width: 70%;
+	position: absolute;
+	top: 30%;
+	left: 45%;
+	border: 1px solid transparent;
+}
+nav .nav_ li{
+	float: left;
+	color: white;
+	margin-right: 3%;
+	padding: 5px 1.5%;
+}
+.nav_li{
+	border-bottom: 3px solid white;
+}
+nav .nav_2{
+	position: absolute;
+	top: 100%;
+	width: 100%;
+	height: 350%;
+	background: white;
+}
+nav .nav_2 img{
+	height:70% ;
+	position: absolute;
+	top: 15%;
+	left: 13%;
+}
+nav .nav_2 .word a{
+	color: black;
+}
+nav .nav_2 .word{
+	width: 31%;
+	height: 80%;
+	position: absolute;
+	top: 15%;
+	left: 43%;
+}
+nav .nav_2 .word hr{
+	width: 100%;
+	border: 1px solid #c4c4c4;
+	margin-bottom: 2%;
+}
+nav .nav_2 .word ul{
+	color: #8e8e8e;
+	height: 80%;
+	width: 100%;
+	font-size: 1.6rem;
+}
+nav .nav_2 .word ul li{
+	padding: 1.5%;
+	padding-left:0 ;
+	float: left;
+	width: 40%;
+}
+footer{
+	width: 100%;
+	background: rgba(102,102,102,0.8);
+	position: relative;
+}
+footer .main{
+	position: relative;
+	color: #cccccc;
+	padding-top: 2%;
+	font-size: 1.6rem;
+	text-align: center;
+	
+}
+footer .main p.link{
+	color: black;
+	text-align: left;
+	position: absolute;
+	left: 3%;
+	top: 30%;
+}
+footer .main ul{
+	width: 81%;
+	margin: 2% 17%;
+}
+footer .main ul li{
+	float: left;
+	margin-right: 2%;
+}
+footer hr:before{
+	content: "";
+	display: block;
+	clear: both;
+}
+footer hr{
+	border:1px solid #fefefe;
+	margin: 2%;
+}

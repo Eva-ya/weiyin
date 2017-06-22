@@ -1,0 +1,29 @@
+/******************max-width=500px*************/
+html{
+	font-size: 8px;
+}
+header ul.ul_a {
+    width: 65%;
+}
+
+footer .main{
+	font-size: 1.4rem;
+	padding-top: 0;
+}
+footer .main p.link{
+	display: none;
+}
+footer .main ul{
+	display: none;
+}
+.content .main .share {
+    width: 220px;
+    /*height: 34px;*/
+    
+}
+.content .main .share img{
+	height: 100%;
+}
+.content .share a:last-child{
+	display: none;
+}

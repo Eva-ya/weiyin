@@ -1,0 +1,85 @@
+/******************************max-width=500px min-width=320px*/
+.main h1{
+	font-size: 2.6rem;
+}
+
+nav ul.nav_{
+	left: 72%;
+}
+nav .nav_2 img{
+	display: none;
+}
+nav .nav_2{
+	/*height: 300%;*/
+	width: 33%;
+	left: 39%;
+	position: relative;
+	background: rgba(255,255,255,0.5);
+	
+}
+nav .nav_2 .word hr {
+    width: 82%;
+    margin-top: 5px;
+}
+nav .nav_2 .word ul li{
+	float: none;
+	padding: 5px 0px;
+	color: black;
+}
+nav .nav_2 .word{
+	left: 10%;
+	width: 100%;
+	top: 5%;
+}
+header .main p {
+    padding: 1% 15%;
+}
+.content_a p{
+	display: none;
+}
+.content_a section{
+	height: 50px;
+}
+.content_c .main .pic {
+    width: 75%;
+}
+.content_c .main .pic img.pict{
+	display: none;
+}
+.content_c td.c_td{
+	display: none;
+}
+.content_c .main .pic p {
+    margin-bottom: 9%;
+}
+.content_e .main .box {
+    width: 80%;
+}
+.content_e .main input {
+    width: 42%;
+}
+.content_e .main h1:nth-child(2){
+	display: none;
+}
+.content_e .main button {
+    width: 68px;
+}
+.content_f .main ul{
+	display: none;
+}
+.content_f p, .content_m h1{
+	width: 90%;
+}
+.content_f p{
+	padding: 2px;
+}
+footer .main{
+	font-size: 1.4rem;
+	padding-top: 0;
+}
+footer .main p.link{
+	display: none;
+}
+footer .main ul{
+	display: none;
+}
