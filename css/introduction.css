@@ -22,9 +22,11 @@
 	width: 100%;
 	position: relative;
 }
-.content_a img.bac{
+.content_a{
 	width: 100%;
-	display: block;
+	height: 600px;
+	background: url(../img/introduction/content_a_bac.jpg) no-repeat;
+	background-attachment: fixed;
 	
 }
 
@@ -32,10 +34,17 @@
 	font-size: 1.8rem;
 	margin-bottom: 9%;
 }
-.content_c img.bac,.content_e img.bac{
+.content_c{
 	width: 100%;
-	display: block;
-	
+	height: 600px;
+	background: url(../img/introduction/content_c_bac.jpg) no-repeat;
+	background-attachment: fixed;
+}
+.content_e{
+	width: 100%;
+	height: 601px;
+	background: url(../img/introduction/content_e_bac.jpg) no-repeat;
+	background-attachment: fixed;
 }
 .content_g{
 	width: 100%;

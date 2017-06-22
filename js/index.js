@@ -27,7 +27,7 @@ $(function(){
 			if(!($(".a_carousel").is(":animated"))){
 				$(".a_carousel").animate({
 				left:"0"
-				},1000,function(){
+				},2000,function(){
 				$(".a_carousel img").eq(2).prependTo($(".a_carousel"));
 				$(".a_carousel").css("left",-wid+"px")
 			})
