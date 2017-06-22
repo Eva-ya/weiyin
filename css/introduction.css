@@ -24,8 +24,8 @@
 }
 .content_a{
 	width: 100%;
-	height: 600px;
-	background: url(../img/introduction/content_a_bac.jpg) no-repeat;
+	height: 80%;
+	background: url(../img/introduction/content_a_bac.jpg) 100% no-repeat;
 	background-attachment: fixed;
 	
 }
@@ -36,14 +36,14 @@
 }
 .content_c{
 	width: 100%;
-	height: 600px;
-	background: url(../img/introduction/content_c_bac.jpg) no-repeat;
+	height: 80%;
+	background: url(../img/introduction/content_c_bac.jpg) 100% no-repeat;
 	background-attachment: fixed;
 }
 .content_e{
 	width: 100%;
-	height: 601px;
-	background: url(../img/introduction/content_e_bac.jpg) no-repeat;
+	height: 80%;
+	background: url(../img/introduction/content_e_bac.jpg) 100% no-repeat;
 	background-attachment: fixed;
 }
 .content_g{
