@@ -71,7 +71,7 @@ $(function(){
 			var con_b_topp=$(".content_b").scrollTop()
 			if(doc_bottom>=con_b_top){
 				$(".content_a .aaa").stop().animate({
-					right:"-20px"
+					right:"-10px"
 				},1000);
 			}else{
 				$(".content_a .aaa").stop().animate({

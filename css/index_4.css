@@ -40,7 +40,11 @@ nav .nav_2 .word{
 .content_a .a_contact p:nth-child(2){
 	margin-top: 0;
 }
-
+.content_a .a_contact,.content_a .up{
+	padding: 6px;
+	width: 85px;
+	
+}
 /*.content_b section img{
 	display: none;
 }*/
