@@ -68,7 +68,9 @@ $(function(){
 //			console.log("doc_top"+doc_top)
 			var doc_bottom=doc_top+he;
 			var con_b_top=$(".content_b").offset().top;
-			
+			var con_b_topp=$(".content_b").scrollTop()
+			console.log(con_b_top);
+			console.log(con_b_topp);
 			if(doc_bottom>=con_b_top){
 				$(".content_a .aaa").stop().animate({
 					right:"-10px"
