@@ -44,6 +44,22 @@ nav .nav_ li{
 .nav_li{
 	border-bottom: 3px solid white;
 }
+nav .nav_ li .word2{
+	display: none;
+	background: rgba(47, 79, 79,0.5);
+	padding-left: 8px;
+	padding-top: 5px;
+	margin-top: 5px;
+	border-top:1px solid #999 ;
+	border-bottom:1px solid #999 ;
+}
+nav .nav_ li .word2 li{
+	float:none;
+	width: 100%;
+}
+nav .nav_ li .word2 h4{
+	font-weight: normal;
+}
 nav .nav_2{
 	position: absolute;
 	top: 100%;

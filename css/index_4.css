@@ -40,11 +40,7 @@ nav .nav_2 .word{
 .content_a .a_contact p:nth-child(2){
 	margin-top: 0;
 }
-.content_a .a_contact{
-	padding: 4px;
-	width: 85px;
-	
-}
+
 /*.content_b section img{
 	display: none;
 }*/
@@ -128,7 +124,7 @@ nav .nav_2 .word{
 }
 .content_e .main ul li{
 	height: auto;
-	padding-top: 2.5%;
+	padding-top: 3.5%;
 	font-size: 1.2rem;
 }
 .content_f .main ul li h1{

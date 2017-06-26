@@ -17,7 +17,6 @@ nav ul.nav_{
 nav .nav_ li{
 	float: none;
 }
-
 nav .nav_2 {
     height: 200%; 
     width: 75%;
@@ -52,10 +51,10 @@ nav img.phone{
 	width: 17%;
 	padding: 3px;
 }
-.content_a .a_contact{
+/*.content_a .a_contact{
 	padding: 8px;
 	padding-right: 5px;
-}
+}*/
 .content_a .a_contact div{
 	margin-top: 6px;
 }
