@@ -5,7 +5,9 @@ html{
 header ul.ul_a {
     width: 65%;
 }
-
+nav ul.nav_{
+	left: 72%;
+}
 footer .main{
 	font-size: 1.4rem;
 	padding-top: 0;
