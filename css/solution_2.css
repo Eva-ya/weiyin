@@ -24,6 +24,9 @@ footer ul li:nth-last-child(1),footer ul li:nth-last-child(2),footer ul li:nth-l
     height: 68px;
     
 }
+.content_c .main span{
+	height: 82px;
+}
 .content_c .main .box{
 	width: 745px;
 }

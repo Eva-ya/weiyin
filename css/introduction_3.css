@@ -57,7 +57,10 @@ header .main p:nth-child(2){
 	display: none;
 }
 
-
+.content_a,.content_c,.content_e{
+	height: 300px;
+	
+}
 
 .content_e .main{
 	padding-top: 2%;

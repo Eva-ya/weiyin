@@ -5,7 +5,8 @@
 	left: 7%;
 	top: 0;
 	text-align: center;
-	padding-top: 7%;
+	padding-top: 5%;
+	line-height: 2.5rem;
 	box-sizing: border-box;
 	overflow: hidden;
 	/*background: red;*/
@@ -32,14 +33,15 @@
 }
 
 .content_b .main p,.content_d .main p,.content_f .main p{
-	font-size: 1.8rem;
-	margin-bottom: 9%;
+	font-size: 2rem;
+	margin-bottom: 6%;
 }
 .content_c{
 	width: 100%;
 	height: 600px;
 	background: url(../img/introduction/content_c_bac.jpg) no-repeat;
 	background-size:100% ;
+	background-position: 0 67%;
 	background-attachment: fixed;
 }
 .content_e{
@@ -47,6 +49,7 @@
 	height: 601px;
 	background: url(../img/introduction/content_e_bac.jpg) no-repeat;
 	background-size:100% ;
+	background-position: 0 67%;
 	background-attachment: fixed;
 }
 .content_g{

@@ -31,6 +31,10 @@ nav .nav_2 .word{
 header .main p {
     padding: 1% 15%;
 }
+.content_a,.content_c,.content_e{
+	height: 160px;
+	
+}
 .content_g .main .box {
     width: 80%;
 }
