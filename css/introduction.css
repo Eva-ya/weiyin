@@ -5,8 +5,8 @@
 	left: 7%;
 	top: 0;
 	text-align: center;
-	padding-top: 5%;
-	line-height: 2.5rem;
+	padding-top: 7%;
+	line-height: 3.5rem;
 	box-sizing: border-box;
 	overflow: hidden;
 	/*background: red;*/
@@ -15,7 +15,7 @@
 }
 
 .main h1{
-	font-size:3.6rem;
+	font-size:3.2rem;
 	font-weight: normal;
 	/*margin-bottom: 25px;*/
 }
@@ -34,7 +34,7 @@
 
 .content_b .main p,.content_d .main p,.content_f .main p{
 	font-size: 2rem;
-	margin-bottom: 7%;
+	margin-bottom: 9%;
 }
 .content_c{
 	width: 100%;
@@ -106,7 +106,7 @@
 }
 .content_h .main h1{
 	color: #c31b26;
-	font-size: 20px;
+	font-size: 2rem;
 	padding-bottom: 1%;
 }
 

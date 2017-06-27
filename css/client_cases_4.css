@@ -7,17 +7,17 @@ header ul.ul_a {
     width: 90%;
     margin: 5%;
 }
-.a_foot {
-    margin: 5% 10%;
+.a_foot{
+	width: 200px;
 }
-.a_foot ul {
-    width: 42%;
-    padding: 1% 2%;
-    
+.a_foot ul{
+	width: 100px;
+	line-height: 26px;
+	padding: 0px 15px;
 }
-.a_foot p {
-    padding: 1% 2%;
-    
+.a_foot p{
+	width: 50px;
+	padding: 3px 6px;
 }
 footer .main{
 	font-size: 1.4rem;

@@ -57,7 +57,17 @@ nav img.phone{
 	width: 45%;
 	margin: 2%;
 }
-
+.a_foot{
+	width: 310px;
+}
+.a_foot ul{
+	width: 150px;
+	line-height: 26px;
+	padding: 0px 30px;
+}
+.a_foot p{
+	width: 80px;
+}
 footer ul.n_ul_b li:nth-last-child(3),footer ul.n_ul_b li:nth-last-child(4){
 	display: none;
 }

@@ -53,6 +53,8 @@ $(function(){
 				})
 			}
 			
+		},function(){
+			
 		})
 		//  鼠标滚动事件
 		var flag_f=true;

@@ -43,13 +43,16 @@ header .main p {
 }
 .content_g .main input {
     width: 42%;
+    height: 23px;
 }
-.content_g .main h1:nth-child(2){
-	display: none;
+.content_g .main .box{
+	top: -20px;
 }
 .content_g .main button {
     width: 68px;
+    height: 23px;
 }
+
 .content_h .main ul{
 	display: none;
 }
@@ -59,6 +62,7 @@ header .main p {
 .content_h p{
 	padding: 2px;
 }
+
 footer .main{
 	font-size: 1.4rem;
 	padding-top: 0;

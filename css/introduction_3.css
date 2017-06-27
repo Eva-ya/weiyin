@@ -88,6 +88,9 @@ header .main p:nth-child(2){
 .content_g .main h1 {
     font-size: 2.6rem;
 }
+.content_g .main h1:nth-child(2){
+	display: none;
+}
 .content_g .main {
     padding-top: 1%;
 }
