@@ -35,6 +35,9 @@ header .main p {
 	height: 160px;
 	
 }
+.content_b .main p, .content_d .main p, .content_f .main p {
+    margin-bottom: 10%;
+}
 .content_g .main .box {
     width: 80%;
 }
