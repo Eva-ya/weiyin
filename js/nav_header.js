@@ -5,9 +5,11 @@ $(function(){
 		$("nav img.phone").click(function(){
 			if(flag_phone){
 				$("nav ul.nav_").css("display","block");
+				$("nav").addClass("nav_change2");
 			}
 			else{
 				$("nav ul.nav_").css("display","none");
+				$("nav").removeClass("nav_change2");
 			}
 			flag_phone=!flag_phone;
 		})

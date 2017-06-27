@@ -21,6 +21,9 @@ nav img.phone{
 .nav_change{
 	background: #474747;
 }
+.nav_change2{
+	background: #222;
+}
 /*nav ul.nav_ a:link,nav ul.nav_ a:visited,nav ul.nav_ a:hover,nav ul.nav_ a:active,{
 	color: white;
 }*/
@@ -46,7 +49,7 @@ nav .nav_ li{
 }
 nav .nav_ li .word2{
 	display: none;
-	background: rgba(47, 79, 79,0.5);
+	background: #2f2f2f;
 	padding-left: 8px;
 	padding-top: 5px;
 	margin-top: 5px;
