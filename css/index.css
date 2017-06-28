@@ -451,9 +451,13 @@
 	position: relative;
 	padding-bottom: 6%;
 }
+.content_h td{
+	border: 1px solid #cccccc;
+	/*border-collapse: collapse;*/
+}
 .content_h .main img{
 	display: block;
-	border: 1px solid #cccccc;
+
 	width: 100%;
 	box-sizing: border-box; 
 }
